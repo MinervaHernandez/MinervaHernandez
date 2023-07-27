@@ -1,6 +1,5 @@
 # About me
-👋 Hi, I’m @MinervaHernandez.
-Although my native language is Spanish, I mainly use English when programming.
+👋 Hi everyone, I’m @MinervaHernandez.
 
 - 👀 I’m interested in *Front-end development.*
 - 🌱 I’m currently learning *Front-end code and database design.* 
