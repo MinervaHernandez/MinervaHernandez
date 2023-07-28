@@ -1,16 +1,16 @@
-![banner]()
+![banner](banner_azul.gif)
 
 <div align="center">
- <img src="" alt="Profile views"/>
-	<img src="" alt="Github followers"/>
+	<img src="https://komarev.com/ghpvc/?username=mahc&color=blue&style=for-the-badge" alt="Profile views"/>
+	<img src="https://img.shields.io/github/followers/mahc?style=for-the-badge&logo=github&color=blue" alt="Github followers"/>
 </div>
 
 ****
 
 <div align="center">
- 
-*✨"Todo progreso cuenta"✨*
-
+ 	<img src="plants-dancing.gif" width="150px" alt="gif"/>
+	
+	*✨"Todo progreso cuenta"✨*
 </div>
 
 # Sobre mi
@@ -33,6 +33,10 @@ por el Frontend.
 ## Contáctame 📫
 
 [LinkedIn](https://www.linkedin.com/in/minerva-hern%C3%A1ndez-362176267/)
+
+<div align="center">
+	<img src="catbread.gif" width="50px" alt="gif"/>
+</div>
 
 ****
 
