@@ -2,15 +2,14 @@
 
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=mahc&color=blue&style=for-the-badge" alt="Profile views"/>
-	<img src="https://img.shields.io/github/followers/mahc?style=for-the-badge&logo=github&color=blue" alt="Github followers"/>
+	<img src="https://img.shields.io/github/followers/mahc?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
 </div>
 
 ****
 
 <div align="center">
  	<img src="plants-dancing.gif" width="150px" alt="gif"/>
-	
-	*✨"Todo progreso cuenta"✨*
+	<p>✨"Todo progreso cuenta"✨</p>
 </div>
 
 # Sobre mi
